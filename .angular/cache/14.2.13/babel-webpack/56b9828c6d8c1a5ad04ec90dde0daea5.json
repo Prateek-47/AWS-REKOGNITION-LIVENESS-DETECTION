@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from \"./StartFaceLivenessSessionCommand\";","map":{"version":3,"names":[],"sources":["D:/aws-rekognition-liveness-detection-main/node_modules/@aws-sdk/client-rekognitionstreaming/dist-es/commands/index.js"],"sourcesContent":["export * from \"./StartFaceLivenessSessionCommand\";\n"],"mappings":"AAAA,cAAc,mCAAd"},"metadata":{},"sourceType":"module"}
