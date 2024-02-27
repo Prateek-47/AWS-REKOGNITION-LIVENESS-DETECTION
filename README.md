@@ -1,15 +1,6 @@
-# Amazon Rekognition Liveness Detection in Angular
 
-#### AWS recently launched the [Amazon Rekognition Face Liveness feature](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rekognition-face-liveness-deter-fraud-facial-verification/). This new feature helps deter fraud in facial verification.
 
-- With AWS Amplify you could easily plug Face liveness detection on your Android/IOS/Browser. It currently supports the below [frameworks](https://ui.docs.amplify.aws/react/connected-components/liveness):
 
-  1. [Android](https://ui.docs.amplify.aws/android/connected-components/liveness)
-  2. [React](https://ui.docs.amplify.aws/react/connected-components/liveness)
-  3. [Swift](https://ui.docs.amplify.aws/swift/connected-components/liveness)
-
-- This solution allows you to integrate Amazon Rekognition face liveness with your existing Angular Application. It uses the FaceLivenessDetector component from React and wraps it as an Angular Component.
-- FaceLivenessDetector component is responsible from starting the liveness session. Once the results are ready it notifies us via callback functions.
 
 #### Steps to run using AWS Amplify
 
