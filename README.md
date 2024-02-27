@@ -4,7 +4,7 @@
 #### AWS recently launched the [Amazon Rekognition Face Liveness feature](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rekognition-face-liveness-deter-fraud-facial-verification/). This new feature helps deter fraud in facial verification.
 
 
-![Automated Liveness Detection](/images/challenges.png)
+![Automated Liveness Detection]
 
 
 
